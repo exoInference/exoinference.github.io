@@ -1,7 +1,7 @@
 site_name: exoInference
 theme:
   name: material
-theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+  
