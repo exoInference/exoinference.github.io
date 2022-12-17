@@ -4,6 +4,7 @@ theme:
 nav:
     - Home: index.md
     - About: about.md
+    - Publications: publications.md
 theme:
   features:
     - navigation.tabs
