@@ -1,1 +1,11 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
+### People 
+
+
+
 
