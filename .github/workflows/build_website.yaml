@@ -16,6 +16,4 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material 
-
-
-      - run: cd exoinference.github.io/ && mkdocs gh-deploy --config-file ../mkdocs.yml --remote-branch gh-pages --force
+      - run: mkdocs gh-deploy --remote-branch gh-pages --force
