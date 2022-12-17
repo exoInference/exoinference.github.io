@@ -1,0 +1,6 @@
+
+site_name: exoInference
+theme:
+  name: material
+plugins:
+  - git-authors
