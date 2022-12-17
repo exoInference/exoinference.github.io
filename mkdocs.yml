@@ -1,6 +1,9 @@
 site_name: exoInference
 theme:
   name: material
+nav:
+    - Home: index.md
+    - About: about.md
 theme:
   features:
     - navigation.tabs
