@@ -5,9 +5,15 @@ hide:
 ---
 
 
-:simple-orcid: 
+:simple-orcid:.{ orcid }
+
 :simple-github:
-:simple-twitter:
+
+:simple-twitter:.{ twitter } 
+
 :simple-googlescholar:
+
 :fontawesome-solid-location-dot:
+
 :material-mouse:
+
