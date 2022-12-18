@@ -3,5 +3,4 @@ hide:
   - toc
 ---
 
-Content comming soon!
-
+How to we robustly, reliably, and efficently make inferences about the atmospheres of exoplanets?
