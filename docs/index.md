@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-Welcome to exoInference. We are collaboration trying to make progress on this very borad question:
+Welcome to exoInference. We are collaboration trying to make progress on this very broad question:
 
 **How to we robustly, reliably, and efficently make inferences about the atmospheres of exoplanets?**
 
