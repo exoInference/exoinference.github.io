@@ -1,7 +1,7 @@
 ---
 hide:
+  - navigation
   - toc
-  - naivigation
 ---
 
 ### Publications led by exoInference members
